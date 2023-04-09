@@ -455,7 +455,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: insure,
+    image: Insure,
     source_code_link: "https://github.com/DreaUltimate/FrontendMentor-DS_Insure",
   },
 ];
