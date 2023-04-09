@@ -29,7 +29,7 @@ import {
   rea,
   huddle,
   bookmark,
-  insure,
+  Insure,
   fylo,
   threejs,
 } from "../assets";
