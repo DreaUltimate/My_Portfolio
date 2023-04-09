@@ -37,7 +37,7 @@ import rea from "./REA-AI.jpg";
 import huddle from "./huddle.jpg";
 import bookmark from "./bookmark.png";
 import fylo from "./fylo.png";
-import insure from "./Insure.jpg";
+import Insure from "./Insure.jpg";
 
 export {
   logo,
@@ -76,5 +76,5 @@ export {
   huddle,
   bookmark,
   fylo,
-  insure,
+  Insure,
 };
