@@ -1,19 +1,19 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+Welcome to my portfolio!
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+This portfolio was built using several modern web development tools and libraries, including Framer Motion, React Tilt, Redux Toolkit, Three.js, and a modern UI.
 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+Framer Motion is a powerful animation library for React that allows for fluid and expressive animations. I used it to create visually stunning and engaging animations throughout the site, helping to draw the user's attention and create a more immersive experience.
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmastery.pro
+React Tilt is a library that allows for the creation of 3D tilt animations in React components. I used it to create dynamic and interactive 3D elements throughout the site, giving the user a sense of depth and interactivity.
+
+Redux Toolkit is a powerful state management library that simplifies the process of managing complex application state. I used it to manage the state of the portfolio's various components and ensure that everything was working seamlessly together.
+
+Three.js is a powerful 3D graphics library that allows for the creation of stunning 3D graphics and animations in the browser. I used it to create a variety of 3D elements throughout the site, including the rotating 3D logo on the homepage.
+
+Finally, the portfolio features a modern UI that is designed to be visually appealing and easy to navigate. I used a combination of modern design principles, including flat design, bold typography, and a clean layout, to create a site that is both functional and aesthetically pleasing.
+
+Overall, this portfolio is the result of careful planning, attention to detail, and the use of cutting-edge web development tools and techniques. I hope you enjoy exploring it as much as I enjoyed building it!
+
+
+
+
